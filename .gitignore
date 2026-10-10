@@ -1,0 +1,11 @@
+sdk/
+dist/
+*.exe
+*.dll
+*.log
+self-test.json
+performance-test.json
+exit-test.json
+preferences.json
+WebProfile/
+TestProfile/
